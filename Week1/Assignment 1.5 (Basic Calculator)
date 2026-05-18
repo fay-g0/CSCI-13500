@@ -1,0 +1,61 @@
+# Intro to C++: Basic Calculator Assignment
+
+Your task is to **apply what we’ve learned** by building a simple **calculator program in C++**.
+
+---
+
+## Assignment Instructions
+
+1. **Create a C++ program** that functions as a basic calculator. Your program should:  
+   - Ask the user for **two numbers**.  
+   - Ask the user to **choose an operation**: addition (`+`), subtraction (`-`), multiplication (`*`), modulo ('%'), or division (`/`).  
+   - Perform the chosen operation and **display the result**.  
+
+2. **Requirements:**  
+   - Must use **variables** to store user input and results.  
+   - Choose **appropriate data types** for numbers.  
+   - Implement **input and output** using `cin` and `cout`.  
+   - Ensure your program **runs as a complete process** from start to finish.  
+
+3. **Optional Bonus:**  
+   - Handle **division by zero error** with a meaningful error message.  
+   - Allow the user to **perform multiple calculations** in a single run.  
+
+---
+
+## Example Output
+```
+Enter first number: 10
+Enter second number: 5
+Choose operation (+, -, *, /, %): *
+Result: 50
+```
+
+---
+
+## Submission Instructions
+
+1. Upload your C++ code to your **GitHub repository**.  
+2. Share the **link to the page where your code is** (not just the repo home page).  
+3. Make sure your code is properly **commented** to explain your logic.  
+
+**Deadline:** June 10th, 2026 @ 11:59PM 
+
+---
+
+## Grading Criteria
+
+| Criteria                        | Points |
+|---------------------------------|--------|
+| Program runs without errors      | 30     |
+| Correct use of variables         | 15     |
+| Correct use of data types        | 10     |
+| Correct arithmetic operations    | 15     |
+| Proper input/output handling     | 15     |
+| Code readability & comments      | 15     |
+
+Total: 100 points
+
+---
+
+Good luck, and have fun! Remember every step you take, is a step towards the right direction! 
