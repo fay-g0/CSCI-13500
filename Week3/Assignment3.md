@@ -3,7 +3,7 @@
 **Purpose:** Computer science is a much bigger field than "writing code," and many students in an intro course often don't realize how many directions they could take. This assignment asks you to research a specific area of CS, figure out **what it actually takes to break into it**, and start planning concrete steps (projects, skills, target employers) toward that goal — while connecting it back to what you're learning in C++ right now.
 
 ## Step 1 — Choose a Field
-Students pick one (or compare two, for extra credit) from the list or you can find your own and let me know:
+Pick one (or compare two, for extra credit) from the list or you can find your own and let me know:
 
 #### Systems Programming & Infrastructure
 * Operating Systems Engineer
