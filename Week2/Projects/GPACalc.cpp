@@ -83,7 +83,7 @@ double points = gradeToPoints(grade); //Retrieve grade and get point value
 
 //if -1 returned = the grade is not valid
 if (points < 0) {
-    std::cout << "Error: \"" << grade << "\" is not a valid grade." << std::endl;
+    std::cout << "Error: " << grade << " is not a valid grade." << std::endl;
     std::cout << "Valid grades: A+, A, A-, B+, B, B-, C+, C, D, F, WU, FIN, FAB" << std::endl;
     std::cout << "  Try again? (y/yes to continue or n/no to get results): ";
     std::cin >> continueChoice;
@@ -127,7 +127,7 @@ std::cout << std::endl;
 }
 /*
 Assignment Reflection:
-Used Ai, specifically asked Claude to break down the logic for th project.
+Specifically asked Claude to break down the logic for th project.
 It helped in a way that it gave me 3 pointers: Make the instructions, 
 make a loop for the user until they are done using the calculator, and then
 the aftermath of the loop should display the results of how many classed and the 
