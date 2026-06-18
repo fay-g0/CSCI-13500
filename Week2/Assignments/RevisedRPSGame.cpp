@@ -79,3 +79,9 @@ int main() {
     
     return 0;
 }
+
+/*
+Had an issue getting more random sequences when testing, 
+so I asked Claude for a better randomizer and it recommended a great one.
+The bot kept winning 4 times straight a few times and did not feel random
+enough.*/
