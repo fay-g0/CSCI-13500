@@ -15,7 +15,7 @@ int main() {
         std::cout << "\n--- ROUND " << round << " ---\n";
         std::cout << "Score: You " << player_score << " - " << bot_score << " Bot\n";
         
-        bool valid = false; // Input validation
+        bool valid = false; // Input validation; dpuble check
         while (!valid) {
             std::cout << "Enter r for rock, p for paper, s for scissors: ";
             std::cin >> player_move;
