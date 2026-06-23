@@ -10,7 +10,7 @@ Our security team has discovered that attackers are flooding our servers with re
 
 Your task is to remove all duplicate entries from the server logs by modifying the existing vector directly. The cleaned log should contain only one copy of each value.
 
-Objective: Remove duplicates from the vector in-place.
+Objective: Remove duplicates from the vector in-place but it should be in O(n) time. NOTE: remove()/erase() functions are O(n) as well. So using it would drastically increase runtime.
 
 
 ## Mission 2: Verify the Spy
@@ -27,5 +27,8 @@ If the codename contains exactly the same letters in a different order, the spy 
 If not, the codename may belong to an imposter. Print a warning message to alert investigators.  
 
 Objective: Determine whether the spy codename is an anagram of the officer's name and flag any invalid codenames.
+
+##
+Find the run time for each of the tasks, give me the time complexity and explain why. Extra points if you can tell me the space complexity!
 
 Find the source code file labeled assignment4.cpp to begin your mission.
