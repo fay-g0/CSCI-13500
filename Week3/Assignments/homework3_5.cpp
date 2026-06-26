@@ -33,7 +33,7 @@ int main() {
                 matrix3[i][j] = 1;
             } else {
                 matrix3[i][j] = 0;
-            }labs
+            }
         }
     }
     PrintMatrix(matrix3);
