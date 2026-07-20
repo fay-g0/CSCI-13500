@@ -1,0 +1,3 @@
+The cat chased the mouse.
+The dog watched the cat.
+The cat was happy.
